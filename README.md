@@ -5,13 +5,13 @@ ssm框架整合
 
 流程：
     1、创建数据库<br>
-    2、导入pom依赖  junit 数据库驱动  连接池  servlet jsp  mybatis   mybatis-spring ,spring 
-    2、新建普通项目，创建controller层，dao层，pojo层，service层
-    3、创建mybatis依赖 applicationContest.xml  mybatis-config.xml 数据库依赖db.properties 
-    4、编写实体类pojo
-    5、编写dao层  BookMapper   写sql
-    6、编写service层
-    7、编写controller层 写页面html
+    2、导入pom依赖  junit 数据库驱动  连接池  servlet jsp  mybatis   mybatis-spring ,spring <br>
+    2、新建普通项目，创建controller层，dao层，pojo层，service层<br>
+    3、创建mybatis依赖 applicationContest.xml  mybatis-config.xml 数据库依赖db.properties <br>
+    4、编写实体类pojo<br>
+    5、编写dao层  BookMapper   写sql<br>
+    6、编写service层<br>
+    7、编写controller层 写页面html<br>
 
 
 ```xml
