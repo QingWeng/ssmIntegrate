@@ -4,7 +4,7 @@ ssm框架整合
 
 
 流程：
-    1、创建数据库
+    1、创建数据库<br>
     2、导入pom依赖  junit 数据库驱动  连接池  servlet jsp  mybatis   mybatis-spring ,spring 
     2、新建普通项目，创建controller层，dao层，pojo层，service层
     3、创建mybatis依赖 applicationContest.xml  mybatis-config.xml 数据库依赖db.properties 
